@@ -1,0 +1,14 @@
+{
+    "name": "mgdm/recovery",
+    "description": "A Redis-based queuing library",
+    "require-dev": {
+        "phpunit/phpunit": "^4.7"
+    },
+    "authors": [
+        {
+            "name": "Michael Maclean",
+            "email": "michael@no-surprises.co.uk"
+        }
+    ],
+    "require": {}
+}
